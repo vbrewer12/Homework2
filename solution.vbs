@@ -1,144 +1,118 @@
-' fill in for ?
-' follow the hints and comments
+Sub stock_analysis():
 
-
-
-Sub SolveStockData()
-    Dim ws As Worksheet
-    Dim lastRow As Long
+    ' Set dimensions
+    Dim total As Double
     Dim i As Long
-    Dim startRow As Long
-    Dim ticker As String
-    Dim quarterlyChange As Double
+    Dim change As Double
+    Dim j As Integer
+    Dim start As Long
+    Dim rowCount As Long
     Dim percentChange As Double
-    Dim totalVolume As Double
-    Dim greatestIncrease As Double
-    Dim greatestDecrease As Double
-    Dim greatestVolume As Double
-    Dim greatestIncreaseTicker As String
-    Dim greatestDecreaseTicker As String
-    Dim greatestVolumeTicker As String
+    Dim days As Integer
+    Dim dailyChange As Double
+    Dim averageChange As Double
 
+    ' Set title row
+    Range("I1").Value = "Ticker"
+    Range("J1").Value = "Quarterly Change"
+    Range("K1").Value = "Percent Change"
+    Range("L1").Value = "Total Stock Volume"
+    Range("P1").Value = "Ticker"
+    Range("Q1").Value = "Value"
+    Range("O2").Value = "Greatest % Increase"
+    Range("O3").Value = "Greatest % Decrease"
+    Range("O4").Value = "Greatest Total Volume"
 
+    ' Set initial values
+    j = 0
+    total = 0
+    change = 0
+    start = 2
 
-    ' Loop through each sheet (Q1, Q2, Q3, Q4)
-    ' Hint: Each ? In ThisWorkbook.?
-    For ?
+    ' get the row number of the last row with data
+    rowCount = Cells(Rows.Count, "A").End(xlUp).Row
 
-        ' Hint: Activate each ws
-        ws.?
+    For i = 2 To rowCount
 
-        ' Find the last row of data
-        ' Hint: we had done a similar one during lecture
-        ' Hint: .End(xlUp).Row
-        lastRow = ?
+        ' If ticker changes then print results
+        If Cells(i + 1, 1).Value <> Cells(i, 1).Value Then
 
+            ' Stores results in variables
+            total = total + Cells(i, 7).Value
 
+            ' Handle zero total volume
+            If total = 0 Then
+                ' print the results
+                Range("I" & 2 + j).Value = Cells(i, 1).Value
+                Range("J" & 2 + j).Value = 0
+                Range("K" & 2 + j).Value = "%" & 0
+                Range("L" & 2 + j).Value = 0
 
-        ' Initialize variables
-        greatestIncrease = 0
-        greatestDecrease = 0
-        greatestVolume = 0
-        startRow = 2
-
-
-        ' Add headers for new columns
-        ws.Cells(1, 9).Value = "Ticker"
-        ws.Cells(1, 10).Value = "Quarterly Change"
-        ws.Cells(1, 11).Value = "Percent Change"
-        ws.Cells(1, 12).Value = "Total Stock Volume"
-        ws.Cells(1, 15).Value = "Ticker"
-        ws.Cells(1, 16).Value = "Value"
-        ws.Cells(1, 14).Value = "Metrics"
-        ws.Cells(2, 14).Value = "Greatest % Increase"
-        ws.Cells(3, 14).Value = "Greatest % Decrease"
-        ws.Cells(4, 14).Value = "Greatest Total Volume"
-
-        Dim j As Integer
-        j = 0
-
-
-
-        ' Process each row
-        For i = 2 To lastRow
-            ticker = ws.Cells(i, 1).Value
-            totalVolume = totalVolume + ws.Cells(i, 7).Value
-
-
-
-            ' If the ticker changes or it is the last row
-            If ws.Cells(i + 1, 1).Value <> ticker Or i = lastRow Then
-
-
-
-                ' Calculate Quarterly Change and Percent Change
-                ' Hint: Cells or Range
-                If ws.?(startRow, 3).Value <> 0 Then
-                    quarterlyChange = ws.?(i, 6).Value - ws.?(startRow, 3).Value
-                    percentChange = quarterlyChange / ws.?(startRow, 3).Value
-                Else
-                    quarterlyChange = 0
-                    percentChange = 0
+            Else
+                ' Find First non zero starting value
+                If Cells(start, 3) = 0 Then
+                    For find_value = start To i
+                        If Cells(find_value, 3).Value <> 0 Then
+                            start = find_value
+                            Exit For
+                        End If
+                     Next find_value
                 End If
 
+                ' Calculate Change
+                change = (Cells(i, 6) - Cells(start, 3))
+                percentChange = change / Cells(start, 3)
 
+                ' start of the next stock ticker
+                start = i + 1
 
-                ' Write data to the output table
-                ws.Cells(2 + j, 9).Value = ?  ' ticker
-                ws.Cells(2 + j, 10).Value = ?  ' quarterly change
-                ws.Cells(2 + j, 10).NumberFormat = "0.00"
-                ws.Cells(2 + j, 11).Value = ?  ' percent change
-                ws.Cells(2 + j, 11).NumberFormat = "0.00%"
-                ws.Cells(2 + j, 12).Value = ?  ' total volume
+                ' print the results
+                Range("I" & 2 + j).Value = Cells(i, 1).Value
+                Range("J" & 2 + j).Value = change
+                Range("J" & 2 + j).NumberFormat = "0.00"
+                Range("K" & 2 + j).Value = percentChange
+                Range("K" & 2 + j).NumberFormat = "0.00%"
+                Range("L" & 2 + j).Value = total
 
+                ' colors positives green and negatives red
+                Select Case change
+                    Case Is > 0
+                        Range("J" & 2 + j).Interior.ColorIndex = 4
+                    Case Is < 0
+                        Range("J" & 2 + j).Interior.ColorIndex = 3
+                    Case Else
+                        Range("J" & 2 + j).Interior.ColorIndex = 0
+                End Select
 
-
-                ' Conditional formatting for positive/negative changes
-                ' Hint: Interior.ColorIndex
-                ' Cells or Range
-                If quarterlyChange > 0 Then
-                    ws.?(2 + j, 10).? = 4 ' Green
-                ElseIf quarterlyChange < 0 Then
-                    ws.?(2 + j, 10).? = 3 ' Red
-                Else
-                    ws.?(2 + j, 10).? = 0 ' No color
-                End If
-
-
-
-                ' Track greatest values
-                If percentChange > greatestIncrease Then
-                    greatestIncrease = ?
-                    greatestIncreaseTicker = ?
-                End If
-                If percentChange < greatestDecrease Then
-                    greatestDecrease = ?
-                    greatestDecreaseTicker = ?
-                End If
-                If totalVolume > greatestVolume Then
-                    greatestVolume = ?
-                    greatestVolumeTicker = ?
-                End If
-
-                ' Reset variables for next ticker
-                totalVolume = 0
-                startRow = i + 1
-                j = j + 1
             End If
-        Next i
 
+            ' reset variables for new stock ticker
+            total = 0
+            change = 0
+            j = j + 1
+            days = 0
 
-        ' Output greatest values
-        ws.Cells(2, 15).Value = ? ' greatest increase ticker
-        ws.Cells(2, 16).Value = ? ' greatest increase
-        ws.Cells(2, 16).NumberFormat = "0.00%"
-        ws.Cells(3, 15).Value = ? ' greatest decrease ticker
-        ws.Cells(3, 16).Value = ? ' greatest decrease
-        ws.Cells(3, 16).NumberFormat = "0.00%"
-        ws.Cells(4, 15).Value = ? ' greatest volume ticker
-        ws.Cells(4, 16).Value = ? ' greatest volume
+        ' If ticker is still the same add results
+        Else
+            total = total + Cells(i, 7).Value
 
-    Next ws
+        End If
 
-    MsgBox "Data processed successfully!"
+    Next i
+
+    ' take the max and min and place them in a separate part in the worksheet
+    Range("Q2") = "%" & WorksheetFunction.Max(Range("K2:K" & rowCount)) * 100
+    Range("Q3") = "%" & WorksheetFunction.Min(Range("K2:K" & rowCount)) * 100
+    Range("Q4") = WorksheetFunction.Max(Range("L2:L" & rowCount))
+
+    ' returns one less because header row not a factor
+    increase_number = WorksheetFunction.Match(WorksheetFunction.Max(Range("K2:K" & rowCount)), Range("K2:K" & rowCount), 0)
+    decrease_number = WorksheetFunction.Match(WorksheetFunction.Min(Range("K2:K" & rowCount)), Range("K2:K" & rowCount), 0)
+    volume_number = WorksheetFunction.Match(WorksheetFunction.Max(Range("L2:L" & rowCount)), Range("L2:L" & rowCount), 0)
+
+    ' final ticker symbol for  total, greatest % of increase and decrease, and average
+    Range("P2") = Cells(increase_number + 1, 9)
+    Range("P3") = Cells(decrease_number + 1, 9)
+    Range("P4") = Cells(volume_number + 1, 9)
+
 End Sub
