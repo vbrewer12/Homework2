@@ -1,0 +1,458 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+year 2020, quarter 1, ticker AAB, open 23, close 23, change 0, change% 0
+year 2020, quarter 2, ticker AAB, open 23, close 24, change 1, change% 4.34782608695652
+year 2020, quarter 3, ticker AAB, open 24, close 24, change 0, change% 0
+year 2020, quarter 4, ticker AAB, open 24, close 23, change -1, change% -4.16666666666667
+---------------------------
+year 2020, quarter 1, ticker AAF, open 5, close 5, change 0, change% 0
+year 2020, quarter 2, ticker AAF, open 5, close 5, change 0, change% 0
+year 2020, quarter 3, ticker AAF, open 5, close 6, change 1, change% 20
+year 2020, quarter 4, ticker AAF, open 6, close 5, change -1, change% -16.6666666666667
+---------------------------
+year 2020, quarter 1, ticker AAR, open 2, close 2, change 0, change% 0
+year 2020, quarter 2, ticker AAR, open 2, close 2, change 0, change% 0
+year 2020, quarter 3, ticker AAR, open 2, close 2, change 0, change% 0
+year 2020, quarter 4, ticker AAR, open 2, close 2, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AAT, open 14, close 15, change 1, change% 7.14285714285714
+year 2020, quarter 2, ticker AAT, open 15, close 14, change -1, change% -6.66666666666667
+year 2020, quarter 3, ticker AAT, open 14, close 14, change 0, change% 0
+year 2020, quarter 4, ticker AAT, open 14, close 11, change -3, change% -21.4285714285714
+---------------------------
+year 2020, quarter 1, ticker ABJ, open 46, close 46, change 0, change% 0
+year 2020, quarter 2, ticker ABJ, open 46, close 48, change 2, change% 4.34782608695652
+year 2020, quarter 3, ticker ABJ, open 48, close 46, change -2, change% -4.16666666666667
+year 2020, quarter 4, ticker ABJ, open 46, close 48, change 2, change% 4.34782608695652
+---------------------------
+year 2020, quarter 1, ticker ABK, open 39, close 38, change -1, change% -2.56410256410256
+year 2020, quarter 2, ticker ABK, open 38, close 38, change 0, change% 0
+year 2020, quarter 3, ticker ABK, open 38, close 38, change 0, change% 0
+year 2020, quarter 4, ticker ABK, open 38, close 38, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker ABKV, open 26, close 27, change 1, change% 3.84615384615385
+year 2020, quarter 2, ticker ABKV, open 27, close 25, change -2, change% -7.40740740740741
+year 2020, quarter 3, ticker ABKV, open 25, close 25, change 0, change% 0
+year 2020, quarter 4, ticker ABKV, open 25, close 22, change -3, change% -12
+---------------------------
+year 2020, quarter 1, ticker ABM, open 8, close 8, change 0, change% 0
+year 2020, quarter 2, ticker ABM, open 8, close 8, change 0, change% 0
+year 2020, quarter 3, ticker ABM, open 8, close 7, change -1, change% -12.5
+year 2020, quarter 4, ticker ABM, open 7, close 7, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker ACJ, open 15, close 15, change 0, change% 0
+year 2020, quarter 2, ticker ACJ, open 15, close 15, change 0, change% 0
+year 2020, quarter 3, ticker ACJ, open 15, close 15, change 0, change% 0
+year 2020, quarter 4, ticker ACJ, open 15, close 15, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker ACYQ, open 43, close 42, change -1, change% -2.32558139534884
+year 2020, quarter 2, ticker ACYQ, open 42, close 43, change 1, change% 2.38095238095238
+year 2020, quarter 3, ticker ACYQ, open 43, close 43, change 0, change% 0
+year 2020, quarter 4, ticker ACYQ, open 43, close 43, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker ADB, open 25, close 25, change 0, change% 0
+year 2020, quarter 2, ticker ADB, open 25, close 25, change 0, change% 0
+year 2020, quarter 3, ticker ADB, open 25, close 25, change 0, change% 0
+year 2020, quarter 4, ticker ADB, open 25, close 25, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker ADF, open 14, close 16, change 2, change% 14.2857142857143
+year 2020, quarter 2, ticker ADF, open 16, close 16, change 0, change% 0
+year 2020, quarter 3, ticker ADF, open 16, close 16, change 0, change% 0
+year 2020, quarter 4, ticker ADF, open 16, close 16, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AEL, open 48, close 51, change 3, change% 6.25
+year 2020, quarter 2, ticker AEL, open 51, close 50, change -1, change% -1.96078431372549
+year 2020, quarter 3, ticker AEL, open 50, close 48, change -2, change% -4
+year 2020, quarter 4, ticker AEL, open 48, close 51, change 3, change% 6.25
+---------------------------
+year 2020, quarter 1, ticker AEV, open 42, close 40, change -2, change% -4.76190476190476
+year 2020, quarter 2, ticker AEV, open 40, close 30, change -10, change% -25
+year 2020, quarter 3, ticker AEV, open 31, close 32, change 1, change% 3.2258064516129
+year 2020, quarter 4, ticker AEV, open 32, close 33, change 1, change% 3.125
+---------------------------
+year 2020, quarter 1, ticker AEY, open 1, close 1, change 0, change% 0
+year 2020, quarter 2, ticker AEY, open 1, close 1, change 0, change% 0
+year 2020, quarter 3, ticker AEY, open 1, close 1, change 0, change% 0
+year 2020, quarter 4, ticker AEY, open 1, close 1, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AFZ, open 13, close 13, change 0, change% 0
+year 2020, quarter 2, ticker AFZ, open 13, close 13, change 0, change% 0
+year 2020, quarter 3, ticker AFZ, open 13, close 13, change 0, change% 0
+year 2020, quarter 4, ticker AFZ, open 13, close 14, change 1, change% 7.69230769230769
+---------------------------
+year 2020, quarter 1, ticker AGF, open 54, close 54, change 0, change% 0
+year 2020, quarter 2, ticker AGF, open 54, close 55, change 1, change% 1.85185185185185
+year 2020, quarter 3, ticker AGF, open 55, close 55, change 0, change% 0
+year 2020, quarter 4, ticker AGF, open 55, close 54, change -1, change% -1.81818181818182
+---------------------------
+year 2020, quarter 1, ticker AGJ, open 9, close 10, change 1, change% 11.1111111111111
+year 2020, quarter 2, ticker AGJ, open 10, close 10, change 0, change% 0
+year 2020, quarter 3, ticker AGJ, open 10, close 9, change -1, change% -10
+year 2020, quarter 4, ticker AGJ, open 9, close 8, change -1, change% -11.1111111111111
+---------------------------
+year 2020, quarter 1, ticker AGM, open 7, close 7, change 0, change% 0
+year 2020, quarter 2, ticker AGM, open 7, close 7, change 0, change% 0
+year 2020, quarter 3, ticker AGM, open 7, close 7, change 0, change% 0
+year 2020, quarter 4, ticker AGM, open 7, close 7, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AHAO, open 11, close 11, change 0, change% 0
+year 2020, quarter 2, ticker AHAO, open 11, close 10, change -1, change% -9.09090909090909
+year 2020, quarter 3, ticker AHAO, open 10, close 11, change 1, change% 10
+year 2020, quarter 4, ticker AHAO, open 11, close 11, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AHB, open 23, close 24, change 1, change% 4.34782608695652
+year 2020, quarter 2, ticker AHB, open 24, close 24, change 0, change% 0
+year 2020, quarter 3, ticker AHB, open 24, close 24, change 0, change% 0
+year 2020, quarter 4, ticker AHB, open 24, close 24, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AIC, open 126, close 126, change 0, change% 0
+year 2020, quarter 2, ticker AIC, open 126, close 121, change -5, change% -3.96825396825397
+year 2020, quarter 3, ticker AIC, open 121, close 126, change 5, change% 4.13223140495868
+year 2020, quarter 4, ticker AIC, open 126, close 123, change -3, change% -2.38095238095238
+---------------------------
+year 2020, quarter 1, ticker AIQ, open 12, close 12, change 0, change% 0
+year 2020, quarter 2, ticker AIQ, open 12, close 12, change 0, change% 0
+year 2020, quarter 3, ticker AIQ, open 12, close 12, change 0, change% 0
+year 2020, quarter 4, ticker AIQ, open 12, close 12, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AIQF, open 3, close 2, change -1, change% -33.3333333333333
+year 2020, quarter 2, ticker AIQF, open 2, close 2, change 0, change% 0
+year 2020, quarter 3, ticker AIQF, open 2, close 2, change 0, change% 0
+year 2020, quarter 4, ticker AIQF, open 2, close 2, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AIQK, open 23, close 25, change 2, change% 8.69565217391304
+year 2020, quarter 2, ticker AIQK, open 25, close 23, change -2, change% -8
+year 2020, quarter 3, ticker AIQK, open 23, close 26, change 3, change% 13.0434782608696
+year 2020, quarter 4, ticker AIQK, open 26, close 26, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AJA, open 3, close 3, change 0, change% 0
+year 2020, quarter 2, ticker AJA, open 3, close 3, change 0, change% 0
+year 2020, quarter 3, ticker AJA, open 3, close 3, change 0, change% 0
+year 2020, quarter 4, ticker AJA, open 3, close 2, change -1, change% -33.3333333333333
+---------------------------
+year 2020, quarter 1, ticker AJJ, open 111, close 112, change 1, change% 0.900900900900901
+year 2020, quarter 2, ticker AJJ, open 112, close 113, change 1, change% 0.892857142857143
+year 2020, quarter 3, ticker AJJ, open 112, close 112, change 0, change% 0
+year 2020, quarter 4, ticker AJJ, open 112, close 112, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AJK, open 11, close 10, change -1, change% -9.09090909090909
+year 2020, quarter 2, ticker AJK, open 10, close 11, change 1, change% 10
+year 2020, quarter 3, ticker AJK, open 11, close 11, change 0, change% 0
+year 2020, quarter 4, ticker AJK, open 11, close 12, change 1, change% 9.09090909090909
+---------------------------
+year 2020, quarter 1, ticker AJL, open 14, close 14, change 0, change% 0
+year 2020, quarter 2, ticker AJL, open 14, close 14, change 0, change% 0
+year 2020, quarter 3, ticker AJL, open 14, close 14, change 0, change% 0
+year 2020, quarter 4, ticker AJL, open 14, close 14, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AJR, open 17, close 16, change -1, change% -5.88235294117647
+year 2020, quarter 2, ticker AJR, open 16, close 16, change 0, change% 0
+year 2020, quarter 3, ticker AJR, open 16, close 16, change 0, change% 0
+year 2020, quarter 4, ticker AJR, open 16, close 16, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AJS, open 17, close 17, change 0, change% 0
+year 2020, quarter 2, ticker AJS, open 17, close 16, change -1, change% -5.88235294117647
+year 2020, quarter 3, ticker AJS, open 16, close 18, change 2, change% 12.5
+year 2020, quarter 4, ticker AJS, open 18, close 18, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AKKV, open 9, close 9, change 0, change% 0
+year 2020, quarter 2, ticker AKKV, open 9, close 8, change -1, change% -11.1111111111111
+year 2020, quarter 3, ticker AKKV, open 8, close 8, change 0, change% 0
+year 2020, quarter 4, ticker AKKV, open 8, close 8, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AKUC, open 44, close 41, change -3, change% -6.81818181818182
+year 2020, quarter 2, ticker AKUC, open 41, close 43, change 2, change% 4.8780487804878
+year 2020, quarter 3, ticker AKUC, open 43, close 41, change -2, change% -4.65116279069767
+year 2020, quarter 4, ticker AKUC, open 42, close 40, change -2, change% -4.76190476190476
+---------------------------
+year 2020, quarter 1, ticker ALZY, open 27, close 28, change 1, change% 3.7037037037037
+year 2020, quarter 2, ticker ALZY, open 28, close 29, change 1, change% 3.57142857142857
+year 2020, quarter 3, ticker ALZY, open 29, close 30, change 1, change% 3.44827586206897
+year 2020, quarter 4, ticker ALZY, open 30, close 32, change 2, change% 6.66666666666667
+---------------------------
+year 2020, quarter 1, ticker AMEW, open 29, close 29, change 0, change% 0
+year 2020, quarter 2, ticker AMEW, open 29, close 28, change -1, change% -3.44827586206897
+year 2020, quarter 3, ticker AMEW, open 28, close 29, change 1, change% 3.57142857142857
+year 2020, quarter 4, ticker AMEW, open 29, close 29, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AMX, open 47, close 48, change 1, change% 2.12765957446809
+year 2020, quarter 2, ticker AMX, open 48, close 47, change -1, change% -2.08333333333333
+year 2020, quarter 3, ticker AMX, open 47, close 46, change -1, change% -2.12765957446809
+year 2020, quarter 4, ticker AMX, open 46, close 45, change -1, change% -2.17391304347826
+---------------------------
+year 2020, quarter 1, ticker ANB, open 16, close 16, change 0, change% 0
+year 2020, quarter 2, ticker ANB, open 16, close 16, change 0, change% 0
+year 2020, quarter 3, ticker ANB, open 16, close 15, change -1, change% -6.25
+year 2020, quarter 4, ticker ANB, open 15, close 15, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker ANM, open 30, close 27, change -3, change% -10
+year 2020, quarter 2, ticker ANM, open 27, close 30, change 3, change% 11.1111111111111
+year 2020, quarter 3, ticker ANM, open 30, close 28, change -2, change% -6.66666666666667
+year 2020, quarter 4, ticker ANM, open 29, close 28, change -1, change% -3.44827586206897
+---------------------------
+year 2020, quarter 1, ticker ANO, open 54, close 54, change 0, change% 0
+year 2020, quarter 2, ticker ANO, open 54, close 50, change -4, change% -7.40740740740741
+year 2020, quarter 3, ticker ANO, open 50, close 48, change -2, change% -4
+year 2020, quarter 4, ticker ANO, open 48, close 47, change -1, change% -2.08333333333333
+---------------------------
+year 2020, quarter 1, ticker ANQ, open 8, close 9, change 1, change% 12.5
+year 2020, quarter 2, ticker ANQ, open 9, close 9, change 0, change% 0
+year 2020, quarter 3, ticker ANQ, open 9, close 8, change -1, change% -11.1111111111111
+year 2020, quarter 4, ticker ANQ, open 8, close 8, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker ANTB, open 48, close 48, change 0, change% 0
+year 2020, quarter 2, ticker ANTB, open 48, close 48, change 0, change% 0
+year 2020, quarter 3, ticker ANTB, open 48, close 46, change -2, change% -4.16666666666667
+year 2020, quarter 4, ticker ANTB, open 46, close 47, change 1, change% 2.17391304347826
+---------------------------
+year 2020, quarter 1, ticker ANVE, open 35, close 35, change 0, change% 0
+year 2020, quarter 2, ticker ANVE, open 35, close 35, change 0, change% 0
+year 2020, quarter 3, ticker ANVE, open 35, close 35, change 0, change% 0
+year 2020, quarter 4, ticker ANVE, open 35, close 36, change 1, change% 2.85714285714286
+---------------------------
+year 2020, quarter 1, ticker AOQ, open 45, close 47, change 2, change% 4.44444444444444
+year 2020, quarter 2, ticker AOQ, open 47, close 51, change 4, change% 8.51063829787234
+year 2020, quarter 3, ticker AOQ, open 51, close 51, change 0, change% 0
+year 2020, quarter 4, ticker AOQ, open 52, close 51, change -1, change% -1.92307692307692
+---------------------------
+year 2020, quarter 1, ticker AORS, open 8, close 8, change 0, change% 0
+year 2020, quarter 2, ticker AORS, open 8, close 7, change -1, change% -12.5
+year 2020, quarter 3, ticker AORS, open 7, close 7, change 0, change% 0
+year 2020, quarter 4, ticker AORS, open 7, close 7, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker APM, open 83, close 78, change -5, change% -6.02409638554217
+year 2020, quarter 2, ticker APM, open 77, close 91, change 14, change% 18.1818181818182
+year 2020, quarter 3, ticker APM, open 91, close 83, change -8, change% -8.79120879120879
+year 2020, quarter 4, ticker APM, open 83, close 83, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker APOM, open 53, close 55, change 2, change% 3.77358490566038
+year 2020, quarter 2, ticker APOM, open 55, close 57, change 2, change% 3.63636363636364
+year 2020, quarter 3, ticker APOM, open 57, close 55, change -2, change% -3.50877192982456
+year 2020, quarter 4, ticker APOM, open 55, close 54, change -1, change% -1.81818181818182
+---------------------------
+year 2020, quarter 1, ticker APU, open 48, close 50, change 2, change% 4.16666666666667
+year 2020, quarter 2, ticker APU, open 50, close 52, change 2, change% 4
+year 2020, quarter 3, ticker APU, open 52, close 50, change -2, change% -3.84615384615385
+year 2020, quarter 4, ticker APU, open 51, close 50, change -1, change% -1.96078431372549
+---------------------------
+year 2020, quarter 1, ticker AQA, open 3, close 3, change 0, change% 0
+year 2020, quarter 2, ticker AQA, open 3, close 3, change 0, change% 0
+year 2020, quarter 3, ticker AQA, open 3, close 3, change 0, change% 0
+year 2020, quarter 4, ticker AQA, open 3, close 3, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AQM, open 86, close 85, change -1, change% -1.16279069767442
+year 2020, quarter 2, ticker AQM, open 85, close 88, change 3, change% 3.52941176470588
+year 2020, quarter 3, ticker AQM, open 88, close 89, change 1, change% 1.13636363636364
+year 2020, quarter 4, ticker AQM, open 89, close 88, change -1, change% -1.12359550561798
+---------------------------
+year 2020, quarter 1, ticker AQRH, open 5, close 5, change 0, change% 0
+year 2020, quarter 2, ticker AQRH, open 5, close 5, change 0, change% 0
+year 2020, quarter 3, ticker AQRH, open 5, close 5, change 0, change% 0
+year 2020, quarter 4, ticker AQRH, open 5, close 5, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AQYW, open 5, close 5, change 0, change% 0
+year 2020, quarter 2, ticker AQYW, open 5, close 6, change 1, change% 20
+year 2020, quarter 3, ticker AQYW, open 6, close 5, change -1, change% -16.6666666666667
+year 2020, quarter 4, ticker AQYW, open 5, close 5, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AREZ, open 76, close 77, change 1, change% 1.31578947368421
+year 2020, quarter 2, ticker AREZ, open 76, close 81, change 5, change% 6.57894736842105
+year 2020, quarter 3, ticker AREZ, open 81, close 84, change 3, change% 3.7037037037037
+year 2020, quarter 4, ticker AREZ, open 84, close 86, change 2, change% 2.38095238095238
+---------------------------
+year 2020, quarter 1, ticker ASC, open 20, close 20, change 0, change% 0
+year 2020, quarter 2, ticker ASC, open 20, close 20, change 0, change% 0
+year 2020, quarter 3, ticker ASC, open 20, close 20, change 0, change% 0
+year 2020, quarter 4, ticker ASC, open 20, close 20, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker ASIQ, open 8, close 8, change 0, change% 0
+year 2020, quarter 2, ticker ASIQ, open 8, close 9, change 1, change% 12.5
+year 2020, quarter 3, ticker ASIQ, open 9, close 8, change -1, change% -11.1111111111111
+year 2020, quarter 4, ticker ASIQ, open 8, close 8, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker ASL, open 118, close 114, change -4, change% -3.38983050847458
+year 2020, quarter 2, ticker ASL, open 114, close 117, change 3, change% 2.63157894736842
+year 2020, quarter 3, ticker ASL, open 117, close 118, change 1, change% 0.854700854700855
+year 2020, quarter 4, ticker ASL, open 118, close 115, change -3, change% -2.54237288135593
+---------------------------
+year 2020, quarter 1, ticker ASW, open 86, close 90, change 4, change% 4.65116279069767
+year 2020, quarter 2, ticker ASW, open 90, close 88, change -2, change% -2.22222222222222
+year 2020, quarter 3, ticker ASW, open 87, close 82, change -5, change% -5.74712643678161
+year 2020, quarter 4, ticker ASW, open 82, close 96, change 14, change% 17.0731707317073
+---------------------------
+year 2020, quarter 1, ticker ASX, open 56, close 55, change -1, change% -1.78571428571429
+year 2020, quarter 2, ticker ASX, open 55, close 56, change 1, change% 1.81818181818182
+year 2020, quarter 3, ticker ASX, open 56, close 52, change -4, change% -7.14285714285714
+year 2020, quarter 4, ticker ASX, open 52, close 51, change -1, change% -1.92307692307692
+---------------------------
+year 2020, quarter 1, ticker ATH, open 90, close 93, change 3, change% 3.33333333333333
+year 2020, quarter 2, ticker ATH, open 93, close 98, change 5, change% 5.37634408602151
+year 2020, quarter 3, ticker ATH, open 97, close 100, change 3, change% 3.09278350515464
+year 2020, quarter 4, ticker ATH, open 100, close 109, change 9, change% 9
+---------------------------
+year 2020, quarter 1, ticker ATS, open 5, close 5, change 0, change% 0
+year 2020, quarter 2, ticker ATS, open 5, close 6, change 1, change% 20
+year 2020, quarter 3, ticker ATS, open 6, close 6, change 0, change% 0
+year 2020, quarter 4, ticker ATS, open 6, close 6, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AUE, open 21, close 22, change 1, change% 4.76190476190476
+year 2020, quarter 2, ticker AUE, open 22, close 21, change -1, change% -4.54545454545455
+year 2020, quarter 3, ticker AUE, open 21, close 21, change 0, change% 0
+year 2020, quarter 4, ticker AUE, open 21, close 21, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AUJD, open 6, close 6, change 0, change% 0
+year 2020, quarter 2, ticker AUJD, open 6, close 6, change 0, change% 0
+year 2020, quarter 3, ticker AUJD, open 6, close 6, change 0, change% 0
+year 2020, quarter 4, ticker AUJD, open 6, close 6, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AUOU, open 7, close 8, change 1, change% 14.2857142857143
+year 2020, quarter 2, ticker AUOU, open 8, close 7, change -1, change% -12.5
+year 2020, quarter 3, ticker AUOU, open 7, close 8, change 1, change% 14.2857142857143
+year 2020, quarter 4, ticker AUOU, open 8, close 8, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AUV, open 14, close 14, change 0, change% 0
+year 2020, quarter 2, ticker AUV, open 14, close 14, change 0, change% 0
+year 2020, quarter 3, ticker AUV, open 14, close 14, change 0, change% 0
+year 2020, quarter 4, ticker AUV, open 14, close 13, change -1, change% -7.14285714285714
+---------------------------
+year 2020, quarter 1, ticker AVK, open 15, close 14, change -1, change% -6.66666666666667
+year 2020, quarter 2, ticker AVK, open 14, close 14, change 0, change% 0
+year 2020, quarter 3, ticker AVK, open 14, close 14, change 0, change% 0
+year 2020, quarter 4, ticker AVK, open 14, close 14, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AVMV, open 42, close 41, change -1, change% -2.38095238095238
+year 2020, quarter 2, ticker AVMV, open 41, close 40, change -1, change% -2.4390243902439
+year 2020, quarter 3, ticker AVMV, open 40, close 39, change -1, change% -2.5
+year 2020, quarter 4, ticker AVMV, open 39, close 40, change 1, change% 2.56410256410256
+---------------------------
+year 2020, quarter 1, ticker AVWB, open 5, close 5, change 0, change% 0
+year 2020, quarter 2, ticker AVWB, open 5, close 5, change 0, change% 0
+year 2020, quarter 3, ticker AVWB, open 5, close 5, change 0, change% 0
+year 2020, quarter 4, ticker AVWB, open 5, close 5, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AWAU, open 7, close 7, change 0, change% 0
+year 2020, quarter 2, ticker AWAU, open 7, close 8, change 1, change% 14.2857142857143
+year 2020, quarter 3, ticker AWAU, open 8, close 8, change 0, change% 0
+year 2020, quarter 4, ticker AWAU, open 8, close 8, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AWB, open 13, close 14, change 1, change% 7.69230769230769
+year 2020, quarter 2, ticker AWB, open 14, close 15, change 1, change% 7.14285714285714
+year 2020, quarter 3, ticker AWB, open 15, close 15, change 0, change% 0
+year 2020, quarter 4, ticker AWB, open 15, close 15, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AWW, open 20, close 19, change -1, change% -5
+year 2020, quarter 2, ticker AWW, open 19, close 18, change -1, change% -5.26315789473684
+year 2020, quarter 3, ticker AWW, open 19, close 19, change 0, change% 0
+year 2020, quarter 4, ticker AWW, open 19, close 19, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AWYH, open 7, close 7, change 0, change% 0
+year 2020, quarter 2, ticker AWYH, open 7, close 7, change 0, change% 0
+year 2020, quarter 3, ticker AWYH, open 7, close 7, change 0, change% 0
+year 2020, quarter 4, ticker AWYH, open 7, close 7, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AXD, open 16, close 16, change 0, change% 0
+year 2020, quarter 2, ticker AXD, open 16, close 16, change 0, change% 0
+year 2020, quarter 3, ticker AXD, open 16, close 15, change -1, change% -6.25
+year 2020, quarter 4, ticker AXD, open 15, close 15, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AXH, open 18, close 18, change 0, change% 0
+year 2020, quarter 2, ticker AXH, open 18, close 19, change 1, change% 5.55555555555556
+year 2020, quarter 3, ticker AXH, open 19, close 20, change 1, change% 5.26315789473684
+year 2020, quarter 4, ticker AXH, open 19, close 19, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AXK, open 4, close 4, change 0, change% 0
+year 2020, quarter 2, ticker AXK, open 4, close 4, change 0, change% 0
+year 2020, quarter 3, ticker AXK, open 4, close 4, change 0, change% 0
+year 2020, quarter 4, ticker AXK, open 4, close 4, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AXO, open 32, close 32, change 0, change% 0
+year 2020, quarter 2, ticker AXO, open 32, close 33, change 1, change% 3.125
+year 2020, quarter 3, ticker AXO, open 33, close 34, change 1, change% 3.03030303030303
+year 2020, quarter 4, ticker AXO, open 34, close 34, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AXOC, open 21, close 22, change 1, change% 4.76190476190476
+year 2020, quarter 2, ticker AXOC, open 22, close 21, change -1, change% -4.54545454545455
+year 2020, quarter 3, ticker AXOC, open 21, close 20, change -1, change% -4.76190476190476
+year 2020, quarter 4, ticker AXOC, open 20, close 21, change 1, change% 5
+---------------------------
+year 2020, quarter 1, ticker AXOS, open 33, close 35, change 2, change% 6.06060606060606
+year 2020, quarter 2, ticker AXOS, open 35, close 35, change 0, change% 0
+year 2020, quarter 3, ticker AXOS, open 35, close 34, change -1, change% -2.85714285714286
+year 2020, quarter 4, ticker AXOS, open 34, close 34, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AXU, open 33, close 33, change 0, change% 0
+year 2020, quarter 2, ticker AXU, open 33, close 34, change 1, change% 3.03030303030303
+year 2020, quarter 3, ticker AXU, open 34, close 32, change -2, change% -5.88235294117647
+year 2020, quarter 4, ticker AXU, open 32, close 33, change 1, change% 3.125
+---------------------------
+year 2020, quarter 1, ticker AXUB, open 4, close 5, change 1, change% 25
+year 2020, quarter 2, ticker AXUB, open 5, close 4, change -1, change% -20
+year 2020, quarter 3, ticker AXUB, open 4, close 4, change 0, change% 0
+year 2020, quarter 4, ticker AXUB, open 4, close 4, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AXY, open 7, close 7, change 0, change% 0
+year 2020, quarter 2, ticker AXY, open 7, close 7, change 0, change% 0
+year 2020, quarter 3, ticker AXY, open 7, close 7, change 0, change% 0
+year 2020, quarter 4, ticker AXY, open 7, close 7, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AYJ, open 9, close 9, change 0, change% 0
+year 2020, quarter 2, ticker AYJ, open 9, close 9, change 0, change% 0
+year 2020, quarter 3, ticker AYJ, open 9, close 9, change 0, change% 0
+year 2020, quarter 4, ticker AYJ, open 9, close 8, change -1, change% -11.1111111111111
+---------------------------
+year 2020, quarter 1, ticker AYLM, open 7, close 8, change 1, change% 14.2857142857143
+year 2020, quarter 2, ticker AYLM, open 8, close 7, change -1, change% -12.5
+year 2020, quarter 3, ticker AYLM, open 7, close 8, change 1, change% 14.2857142857143
+year 2020, quarter 4, ticker AYLM, open 8, close 8, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AYLP, open 33, close 32, change -1, change% -3.03030303030303
+year 2020, quarter 2, ticker AYLP, open 32, close 33, change 1, change% 3.125
+year 2020, quarter 3, ticker AYLP, open 33, close 31, change -2, change% -6.06060606060606
+year 2020, quarter 4, ticker AYLP, open 31, close 30, change -1, change% -3.2258064516129
+---------------------------
+year 2020, quarter 1, ticker AYO, open 12, close 9, change -3, change% -25
+year 2020, quarter 2, ticker AYO, open 9, close 8, change -1, change% -11.1111111111111
+year 2020, quarter 3, ticker AYO, open 8, close 7, change -1, change% -12.5
+year 2020, quarter 4, ticker AYO, open 7, close 6, change -1, change% -14.2857142857143
+---------------------------
+year 2020, quarter 1, ticker AYX, open 34, close 33, change -1, change% -2.94117647058824
+year 2020, quarter 2, ticker AYX, open 33, close 33, change 0, change% 0
+year 2020, quarter 3, ticker AYX, open 33, close 33, change 0, change% 0
+year 2020, quarter 4, ticker AYX, open 33, close 34, change 1, change% 3.03030303030303
+---------------------------
+year 2020, quarter 1, ticker AYZ, open 67, close 67, change 0, change% 0
+year 2020, quarter 2, ticker AYZ, open 67, close 65, change -2, change% -2.98507462686567
+year 2020, quarter 3, ticker AYZ, open 65, close 66, change 1, change% 1.53846153846154
+year 2020, quarter 4, ticker AYZ, open 66, close 65, change -1, change% -1.51515151515152
+---------------------------
+year 2020, quarter 1, ticker AZCS, open 18, close 17, change -1, change% -5.55555555555556
+year 2020, quarter 2, ticker AZCS, open 17, close 19, change 2, change% 11.7647058823529
+year 2020, quarter 3, ticker AZCS, open 18, close 21, change 3, change% 16.6666666666667
+year 2020, quarter 4, ticker AZCS, open 21, close 17, change -4, change% -19.047619047619
+---------------------------
+year 2020, quarter 1, ticker AZI, open 47, close 47, change 0, change% 0
+year 2020, quarter 2, ticker AZI, open 47, close 47, change 0, change% 0
+year 2020, quarter 3, ticker AZI, open 47, close 48, change 1, change% 2.12765957446809
+year 2020, quarter 4, ticker AZI, open 48, close 47, change -1, change% -2.08333333333333
+---------------------------
+year 2020, quarter 1, ticker AZM, open 107, close 113, change 6, change% 5.60747663551402
+year 2020, quarter 2, ticker AZM, open 112, close 123, change 11, change% 9.82142857142857
+year 2020, quarter 3, ticker AZM, open 123, close 109, change -14, change% -11.3821138211382
+year 2020, quarter 4, ticker AZM, open 109, close 117, change 8, change% 7.3394495412844
+---------------------------
+year 2020, quarter 1, ticker AZP, open 35, close 35, change 0, change% 0
+year 2020, quarter 2, ticker AZP, open 34, close 34, change 0, change% 0
+year 2020, quarter 3, ticker AZP, open 34, close 33, change -1, change% -2.94117647058824
+year 2020, quarter 4, ticker AZP, open 33, close 33, change 0, change% 0
+---------------------------
+year 2020, quarter 1, ticker AZTM, open 29, close 29, change 0, change% 0
+year 2020, quarter 2, ticker AZTM, open 29, close 28, change -1, change% -3.44827586206897
+year 2020, quarter 3, ticker AZTM, open 28, close 28, change 0, change% 0
+year 2020, quarter 4, ticker AZTM, open 28, close 28, change 0, change% 0
+---------------------------
+Greatest Increase Ticker AXUB, % 25
+Greatest Decrease Ticker AIQF, % -33.3333333333333
+Greatest Volume Ticker AUE, Volume 611458755
+
+***** script completed - exit code: 0 *****
